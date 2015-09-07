@@ -1,0 +1,11 @@
+// adding items to the list
+   //function Add (items){
+   //   return ($('ol').append('<li>'+items+'</li>'));  
+   // }
+
+
+
+/*<div class "list">
+		<ol>
+
+		</ol> */
